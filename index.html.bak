@@ -41,7 +41,7 @@
 			}
 			
 			.banner-section{
-				background: url(\Users\Valera\OneDrive\Рабочий стол\занятие 3\banner-bg.jpg);
+				background: url(banner-bg.jpg);
 				padding: 100px 0;
 				background-size: cover;
 			}
