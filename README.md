@@ -261,7 +261,7 @@
 						</div>
 						
 						<div class="card">
-							<img class="card-img" src="Vasily.jpg">
+							<img class="card-img" src="Vasiliy.jpg">
 							<div class="card-body">
 								<h3 class="card-title">Кот Василий</h3>
 								<div class="card-text">Ищет добрых хозяев!</div>
@@ -272,7 +272,7 @@
 						</div>
 						
 						<div class="card">
-							<img class="card-img" src="Vasily.jpg">
+							<img class="card-img" src="Vasiliy.jpg">
 							<div class="card-body">
 								<h3 class="card-title">Кот Василий</h3>
 								<div class="card-text">Ищет добрых хозяев!</div>
@@ -283,7 +283,7 @@
 						</div>
 						
 						<div class="card">
-							<img class="card-img" src="Vasily.jpg">
+							<img class="card-img" src="Vasiliy.jpg">
 							<div class="card-body">
 								<h3 class="card-title">Кот Василий</h3>
 								<div class="card-text">Ищет добрых хозяев!</div>
