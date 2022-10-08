@@ -43,7 +43,7 @@
 			}
 			
 			.banner-section{
-				background: url(img/banner-bg.jpg);
+				background: url(banner-bg.jpg);
 				padding: 100px 0;
 				background-size: cover;
 			}
@@ -109,7 +109,7 @@
 			
 			.footer
 			{
-				background: url(img/footer-bg.jpg);
+				background: url(footer-bg.jpg);
 				background-size: cover;
 				padding: 100px 0px;
 			}
@@ -129,7 +129,7 @@
 			
 			.footer
 			{
-				background: url(img/footer-bg.jpg); /*необходимо прокомментировать каждое свойство!*/
+				background: url(footer-bg.jpg); /*необходимо прокомментировать каждое свойство!*/
 				background-size: cover;
 				padding: 100px 0px;
 			}
@@ -190,7 +190,7 @@
 		<header class="header">
 
 			<div class="header-logo">
-				<img class="logo-img" src="img/cat.png">
+				<img class="logo-img" src="cat.png">
 				<h1 class="logo-title">CATS</h1>
 			</div>
 			
@@ -228,7 +228,7 @@
 					
 					<div class="cards">
 						<div class="card">
-							<img class="card-img" src="img/Vasiliy.jpg">
+							<img class="card-img" src="Vasiliy.jpg">
 							<div class="card-body">
 								<h3 class="card-title">Кот Василий</h3>
 								<div class="card-text">Ищет добрых хозяев!</div>
@@ -239,7 +239,7 @@
 						</div>
 						
 						<div class="card">
-							<img class="card-img" src="img/Vasiliy.jpg">
+							<img class="card-img" src="Vasiliy.jpg">
 							<div class="card-body">
 								<h3 class="card-title">Кот Василий</h3>
 								<div class="card-text">Ищет добрых хозяев!</div>
@@ -250,7 +250,7 @@
 						</div>
 						
 						<div class="card">
-							<img class="card-img" src="img/Vasiliy.jpg">
+							<img class="card-img" src="Vasiliy.jpg">
 							<div class="card-body">
 								<h3 class="card-title">Кот Василий</h3>
 								<div class="card-text">Ищет добрых хозяев!</div>
@@ -261,7 +261,7 @@
 						</div>
 						
 						<div class="card">
-							<img class="card-img" src="img/Vasily.jpg">
+							<img class="card-img" src="Vasily.jpg">
 							<div class="card-body">
 								<h3 class="card-title">Кот Василий</h3>
 								<div class="card-text">Ищет добрых хозяев!</div>
@@ -272,7 +272,7 @@
 						</div>
 						
 						<div class="card">
-							<img class="card-img" src="img/Vasily.jpg">
+							<img class="card-img" src="Vasily.jpg">
 							<div class="card-body">
 								<h3 class="card-title">Кот Василий</h3>
 								<div class="card-text">Ищет добрых хозяев!</div>
@@ -283,7 +283,7 @@
 						</div>
 						
 						<div class="card">
-							<img class="card-img" src="img/Vasily.jpg">
+							<img class="card-img" src="Vasily.jpg">
 							<div class="card-body">
 								<h3 class="card-title">Кот Василий</h3>
 								<div class="card-text">Ищет добрых хозяев!</div>
