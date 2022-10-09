@@ -3,40 +3,7 @@
 <html>	
 	<head>
 		<title>Cats</title>
-		<script>
-			
-			var login;
-			var password;
-			login = prompt("Введите логин");
-			if (login == null){
-				alert ("Вход отменён");
-				
-			}
-			if (login == "Админ"){
-				password = prompt("введите пароль");
-				if (password == "Черный Властелин"){
-					alert ("Добро пожаловать!")
-				}
-				else{
-					alert ("Пароль не верен");
-					
-				}
-			if (password== null){
-				alert ("Вход отменён");
-				}
-			
-			}
-			else{
-				alert("Я вас не знаю");
-			}
-			
-			
-		</script>
-		
-		
 		<style>
-		
-		
 			*{
 				padding: 0;
 				margin: 0;
