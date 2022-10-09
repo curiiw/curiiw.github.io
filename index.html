@@ -1,7 +1,40 @@
 <html>	
 	<head>
 		<title>Cats</title>
+		<script>
+			
+			var login;
+			var password;
+			login = prompt("Введите логин");
+			if (login == null){
+				alert ("Вход отменён");
+				
+			}
+			if (login == "Админ"){
+				password = prompt("введите пароль");
+				if (password == "Черный Властелин"){
+					alert ("Добро пожаловать!")
+				}
+				else{
+					alert ("Пароль не верен");
+					
+				}
+			if (password== null){
+				alert ("Вход отменён");
+				}
+			
+			}
+			else{
+				alert("Я вас не знаю");
+			}
+			
+			
+		</script>
+		
+		
 		<style>
+		
+		
 			*{
 				padding: 0;
 				margin: 0;
@@ -107,7 +140,7 @@
 			
 			.footer
 			{
-				background: url(\Users\Valera\OneDrive\Рабочий стол\занятие 3\footer-bg.jpg);
+				background: url(footer-bg.jpg);
 				background-size: cover;
 				padding: 100px 0px;
 			}
@@ -127,7 +160,7 @@
 			
 			.footer
 			{
-				background: url(C:\Users\Valera\OneDrive\Рабочий стол\занятие 3\footer-bg.jpg); 
+				background: url(footer-bg.jpg); /*необходимо прокомментировать каждое свойство!*/
 				background-size: cover;
 				padding: 100px 0px;
 			}
@@ -188,7 +221,7 @@
 		<header class="header">
 
 			<div class="header-logo">
-				<img class="logo-img" src="\Users\Valera\OneDrive\Рабочий стол\занятие 3\cat.png">
+				<img class="logo-img" src="cat.png">
 				<h1 class="logo-title">CATS</h1>
 			</div>
 			
@@ -226,7 +259,7 @@
 					
 					<div class="cards">
 						<div class="card">
-							<img class="card-img" src="C:\Users\Valera\OneDrive\Рабочий стол\занятие 3\Vasiliy.jpg">
+							<img class="card-img" src="Vasiliy.jpg">
 							<div class="card-body">
 								<h3 class="card-title">Кот Василий</h3>
 								<div class="card-text">Ищет добрых хозяев!</div>
@@ -237,7 +270,7 @@
 						</div>
 						
 						<div class="card">
-							<img class="card-img" src="C:\Users\Valera\OneDrive\Рабочий стол\занятие 3\Vasiliy.jpg">
+							<img class="card-img" src="Vasiliy.jpg">
 							<div class="card-body">
 								<h3 class="card-title">Кот Василий</h3>
 								<div class="card-text">Ищет добрых хозяев!</div>
@@ -248,7 +281,7 @@
 						</div>
 						
 						<div class="card">
-							<img class="card-img" src="\Users\Valera\OneDrive\Рабочий стол\занятие 3\Vasiliy.jpg">
+							<img class="card-img" src="Vasiliy.jpg">
 							<div class="card-body">
 								<h3 class="card-title">Кот Василий</h3>
 								<div class="card-text">Ищет добрых хозяев!</div>
@@ -259,7 +292,7 @@
 						</div>
 						
 						<div class="card">
-							<img class="card-img" src="\Users\Valera\OneDrive\Рабочий стол\занятие 3\Vasiliy.jpg">
+							<img class="card-img" src="Vasiliy.jpg">
 							<div class="card-body">
 								<h3 class="card-title">Кот Василий</h3>
 								<div class="card-text">Ищет добрых хозяев!</div>
@@ -270,7 +303,7 @@
 						</div>
 						
 						<div class="card">
-							<img class="card-img" src="\Users\Valera\OneDrive\Рабочий стол\занятие 3\Vasiliy.jpg">
+							<img class="card-img" src="Vasiliy.jpg">
 							<div class="card-body">
 								<h3 class="card-title">Кот Василий</h3>
 								<div class="card-text">Ищет добрых хозяев!</div>
@@ -281,7 +314,7 @@
 						</div>
 						
 						<div class="card">
-							<img class="card-img" src="\Users\Valera\OneDrive\Рабочий стол\занятие 3\Vasiliy.jpg">
+							<img class="card-img" src="Vasiliy.jpg">
 							<div class="card-body">
 								<h3 class="card-title">Кот Василий</h3>
 								<div class="card-text">Ищет добрых хозяев!</div>
